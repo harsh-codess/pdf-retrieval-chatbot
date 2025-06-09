@@ -1,4 +1,4 @@
-# RAG Q&A Conversation With PDF Chat Histor
+# RAG Q&A Conversation With PDF Chat History
 
 A powerful Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and have intelligent conversations with their content while maintaining chat history.
 
